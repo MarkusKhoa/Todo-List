@@ -7,6 +7,7 @@
 }
 
 .header h1{
+  font-family: 'Times new Roman', Courier, monospace;
   text-transform: uppercase;
   color: red;
   padding: 0 5px;
@@ -27,7 +28,7 @@ body {
   border: 2px solid steelblue;
   padding: 30px;
   border-radius: 5px;
-  background-color: aquamarine;
+  background-color: #b2d7f7;
 }
 
 .header {
